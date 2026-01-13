@@ -13,7 +13,7 @@ Bridging Code, Design & Engineering
 ---
 
 ### 🔭 What I'm Working On
-- 🎨 **Portfolio Website**  
+- 🎨 **Design Portfolio Website**  
   👉 <a href="https://aarush2112.github.io/design-portfolio/" target="_blank">Aarush Gupta | Portfolio</a>
 
 ### 📫 Get in Touch
