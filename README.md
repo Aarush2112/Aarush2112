@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aarush Gupta
+<h1 align="center">Hi 👋, I'm Aarush Gupta </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Student+Developer+%26+Designer;Python+OOP+%26+ROS+Learner;Bridging+Code+and+Creativity;CAD+Modeling+%26+IoT+Systems" alt="Typing SVG" />
