@@ -4,16 +4,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Student+Developer+%26+Designer;Python+OOP+%26+ROS+Learner;Bridging+Code+and+Creativity;CAD+Modeling+%26+IoT+Systems" alt="Typing SVG" />
 </p>
 
-### 🚀 Engineering Student | 🛠️ CAD Designer | 🌐 Web Enthusiast | 📡 IoT Learner
+### 🚀 Engineering Student | 🛠️ CAD & PCB Designer | 🌐 Web Enthusiast | 📡 IoT Learner
 
-I am an engineering student focused on **practical systems** that combine hardware, design, and technology. I specialize in **mechanical design (CAD)** and **IoT-based monitoring**, while building responsive web interfaces to visualize data and creativity.
+I am an engineering student focused on **practical systems** that combine hardware, electronics, and technology. I specialize in **mechanical design (CAD)**, **PCB designing**, and **IoT-based monitoring**, while building responsive web interfaces to visualize data and creativity.
 
 ---
 
 ## 🧠 About Me
 - 🔭 **Working on:** [Aarush Gupta | Design Portfolio](https://aarush2112.github.io/design-portfolio/)
 - 🎓 **Education:** Engineering student with a focus on design-driven tech.
-- 🛠️ **Passion:** CAD modeling, product visualization, and 3D printing.
+- 🛠️ **Passion:** CAD modeling, Circuit Design, and 3D printing.
 - 📡 **Innovation:** Exploring IoT systems & sensor-based environmental monitoring.
 - 📈 **Goal:** Mastering the intersection of robotics (ROS) and software architecture.
 
@@ -30,6 +30,7 @@ I am an engineering student focused on **practical systems** that combine hardwa
 <p align="left">
   <img src="https://img.shields.io/badge/Fusion%20360-ORANGE?style=for-the-badge&logo=autodesk" alt="Fusion 360" />
   <img src="https://img.shields.io/badge/SolidWorks-005499?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks" />
+  <img src="https://img.shields.io/badge/KiCad-3146A6?style=for-the-badge&logo=KiCad&logoColor=white" alt="KiCad" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
