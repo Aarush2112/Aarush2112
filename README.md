@@ -48,10 +48,17 @@ I am an engineering student focused on **practical systems** that combine hardwa
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & Coding Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aarush2112&show_icons=true&theme=tokyonight" alt="Aarush's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarush2112&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <a href="https://codolio.com/profile/aarush2112">
+    <img src="https://dsastats.vercel.app/api?username=aarush2112&theme=tokyonight" alt="Aarush's Codolio DSA Stats" />
+  </a>
 </p>
 
 ---
@@ -60,6 +67,7 @@ I am an engineering student focused on **practical systems** that combine hardwa
 <p align="left">
   <a href="mailto:aarushgupta289@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/aarushgupta" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://codolio.com/profile/aarush2112" target="blank"><img src="https://img.shields.io/badge/Codolio-0075FF?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://www.behance.net/aarushgupta15" target="blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
   <a href="https://www.leetcode.com/aarushg21" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://codeforces.com/profile/aarush2112" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
