@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Student+Developer+%26+Designer;ROS+Learner;Bridging+Code+and+Creativity;CAD+Modeling+%26+IoT+Systems" alt="Typing SVG" />
 </p>
 
-### 🚀 Engineering Student | 🛠️ CAD & PCB Designer | 🌐 Web Enthusiast | 📡 IoT Learner
+<h3 align="center">🚀 Engineering Student | 🛠️ CAD & PCB Designer | 🌐 Web Enthusiast | 📡 IoT Learner</h3>
 
 I am an engineering student focused on **practical systems** that combine hardware, electronics, and technology. I specialize in **mechanical design (CAD)**, **PCB designing**, and **IoT-based monitoring**, while building responsive web interfaces to visualize data and creativity.
 
@@ -18,7 +18,7 @@ I am an engineering student focused on **practical systems** that combine hardwa
 - 📈 **Goal:** Mastering the intersection of robotics (ROS) and software architecture.
 
 ## 📚 Currently Learning
-- 🤖 **ROS (Robot Operating System)**
+- 🤖 **ROS (Robot Operating System) & Gazebo**
 - 💻 **Web:** JavaScript (JS)
 - 🎨 **Visuals:** Advanced Product Visualization in SolidWorks
 
@@ -34,6 +34,7 @@ I am an engineering student focused on **practical systems** that combine hardwa
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
+  <img src="https://img.shields.io/badge/Gazebo-F5792A?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" />
 </p>
 
 ### 🌐 Software & Web Development
