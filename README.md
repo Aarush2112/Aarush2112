@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aarush Gupta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Student+Developer+%26+Designer;ROS+Learner;Full+Stack+%26+Robotics+Builder;Bridging+Code+and+Creativity;CAD+Modeling+%26+IoT+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Student+Developer+%26+Designer;ROS2+Learner;Full+Stack+%26+Robotics+Builder;Bridging+Code+and+Creativity;CAD+Modeling+%26+IoT+Systems" />
 </p>
 
 <h3 align="center">🚀 Engineering Student | 🤖 Robotics Developer | 🌐 Full-Stack Builder | 🛠️ CAD & PCB Designer</h3>
@@ -12,7 +12,7 @@
 
 - 🔭 Working on: **Design Portfolio**
 - 🤝 Open source & AI collaborations
-- 🌱 Learning **System Design, DevOps & ROS**
+- 🌱 Learning **System Design, DevOps & ROS2**
 - 💬 Ask me about **Web Dev, Robotics & Projects**
 - ⚡ I build fast & learn faster
 
