@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-- 🔭 Working on: **Design Portfolio**
+- 🔭 Working on: **Portfolio**
 - 🤝 Open source & AI collaborations
 - 🌱 Learning **System Design, DevOps & ROS2**
 - 💬 Ask me about **Web Dev, Robotics & Projects**
