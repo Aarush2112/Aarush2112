@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-- 🔭 Working on: **Portfolio**
+- 🔭 Working on: **<a href="portfolio-aarush-gupta.vercel.app">Portfolio</a>**
 - 🤝 Open source & AI collaborations
 - 🌱 Learning **System Design, DevOps & ROS2**
 - 💬 Ask me about **Web Dev, Robotics & Projects**
