@@ -27,7 +27,7 @@ Personal portfolio showcasing projects and design work
 Projects involving ROS2, Arduino, sensors and embedded systems  
 
 🔹 **Hardware + Software Integrations**  
-Combining CAD, PCB design and software systems
+Combining CAD, PCB design and software systems  
 
 ---
 
@@ -68,8 +68,8 @@ Combining CAD, PCB design and software systems
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarush2112&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarush2112&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aarush2112&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarush2112&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -90,14 +90,6 @@ Combining CAD, PCB design and software systems
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://aarush2112.github.io/aarush2112/snake-dark.svg" />
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <p align="left">
@@ -114,7 +106,7 @@ Combining CAD, PCB design and software systems
 <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance"/>
 </a>
 
-<a href="https://www.leetcode.com/aarushg21">
+<a href="https://leetcode.com/aarushg21">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
