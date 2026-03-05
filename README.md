@@ -93,7 +93,7 @@ Combining CAD, PCB design and software systems
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aarush2112/aarush2112/output/snake.svg" alt="snake animation"/>
+  <img src="https://aarush2112.github.io/aarush2112/snake-dark.svg" />
 </p>
 
 ---
