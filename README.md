@@ -11,6 +11,7 @@
 ## 🧠 About Me
 
 - 🔭 Working on **<a href="https://portfolio-aarush-gupta.vercel.app">My Portfolio Website</a>**
+- 🚀 Currently building **<a href="https://datacron.vercel.app">Datacron Fest Website</a>**
 - 🤝 Open to **Open Source & Tech Collaborations**
 - 🌱 Currently learning **System Design, DevOps & ROS2**
 - 💬 Ask me about **Web Development, Robotics, CAD & Projects**
@@ -28,6 +29,9 @@ Projects involving ROS2, Arduino, sensors and embedded systems
 
 🔹 **Hardware + Software Integrations**  
 Combining CAD, PCB design and software systems  
+
+🔹 **Datacron Fest Website**  
+Official website for the Data Science department fest  
 
 ---
 
