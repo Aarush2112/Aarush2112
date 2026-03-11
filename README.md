@@ -22,16 +22,9 @@
 ## 🚀 Featured Work
 
 🔹 **Developer Portfolio**  
-Personal portfolio showcasing projects and design work  
-
 🔹 **Robotics Projects**  
-Projects involving ROS2, Arduino, sensors and embedded systems  
-
 🔹 **Hardware + Software Integrations**  
-Combining CAD, PCB design and software systems  
-
-🔹 **Datacron Fest Website**  
-Official website for the Data Science department fest  
+🔹 **Datacron Fest Website**
 
 ---
 
@@ -69,14 +62,6 @@ Official website for the Data Science department fest
 
 ---
 
-# 💻 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/aarushg21?theme=dark&font=Karma" />
-</p>
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -98,6 +83,14 @@ Official website for the Data Science department fest
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aarush2112&theme=react-dark"/>
+</p>
+
+---
+
+# 🧩 Problem Solving Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aarushg21?theme=dark&font=Karma" />
 </p>
 
 ---
