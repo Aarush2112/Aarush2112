@@ -69,6 +69,14 @@ Official website for the Data Science department fest
 
 ---
 
+# 💻 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aarushg21?theme=dark&font=Karma" />
+</p>
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -86,10 +94,10 @@ Official website for the Data Science department fest
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aarush2112&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aarush2112&theme=react-dark"/>
 </p>
 
 ---
