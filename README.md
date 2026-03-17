@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aarush Gupta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Student+Developer+%26+Designer;Robotics+%26+Systems+Builder;Full+Stack+Developer;Bridging+Code+and+Creativity;CAD+Modeling+%26+IoT+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Student+Developer+%26+Designer;Robotics+%26+Systems+Builder;Frontend+Developer;Bridging+Code+and+Creativity;CAD+Modeling+%26+IoT+Systems" />
 </p>
 
-<h3 align="center">🚀 B.Tech CSE Student | 🤖 Robotics & Systems Builder | 🌐 Full-Stack Developer | 🎨 Design & Hardware Enthusiast</h3>
+<h3 align="center">🚀 B.Tech CSE Student | 🤖 Robotics & Systems Builder | 🌐 Frontend Developer | 🎨 Design & Hardware Enthusiast</h3>
 
 ---
 
