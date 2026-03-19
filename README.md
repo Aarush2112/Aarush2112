@@ -93,6 +93,10 @@
   <img src="https://leetcard.jacoblin.cool/aarushg21?theme=dark&font=Karma" />
 </p>
 
+<p align="center">
+  <img src="https://leetcode-heatmap.vercel.app/api/heatmap?username=aarushg21" />
+</p>
+
 ---
 
 # 🤝 Connect With Me
