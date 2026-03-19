@@ -90,11 +90,7 @@
 # 🧩 Problem Solving Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/aarushg21?theme=dark&font=Karma" />
-</p>
-
-<p align="center">
-  <img src="https://leetcode-heatmap.vercel.app/api/heatmap?username=aarushg21" />
+  <img src="https://leetcard.jacoblin.cool/aarushg21?theme=dark&ext=heatmap" />
 </p>
 
 ---
