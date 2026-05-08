@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Student+Developer+%26+Designer;Robotics+%26+Systems+Builder;Frontend+Developer;Bridging+Code+and+Creativity;CAD+Modeling+%26+IoT+Systems" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aarush2112&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 <h3 align="center">
 🚀 B.Tech CSE Student | 🤖 Robotics & Systems Builder | 🌐 Frontend Developer | 🎨 Design & Hardware Enthusiast
 </h3>
@@ -17,7 +13,7 @@
 # 🧠 About Me
 
 - 🔭 Working on **<a href="https://portfolio-aarush-gupta.vercel.app">My Portfolio Website</a>**
-- 🚀 Currently building **<a href="https://datacron.co.in">Datacron Fest Website</a>**
+- 🚀 Currently building **<a href="https://take-one-nexus.vercel.app">Take One Website</a>**
 - 🤝 Open to **Open Source & Tech Collaborations**
 - 🌱 Currently learning **System Design, DevOps & ROS2**
 - 💬 Ask me about **Web Development, Robotics, CAD & Projects**
@@ -110,10 +106,10 @@
 
 ---
 
-# 📅 Contribution Heatmap
+# 📅 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/aarush2112" alt="GitHub Contribution Heatmap"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarush2112&theme=github_dark" />
 </p>
 
 ---
@@ -166,14 +162,6 @@
 <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aarush2112/aarush2112/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
