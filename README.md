@@ -142,6 +142,23 @@
 
 ---
 
+# 🏅 GSSoC'26 Badges
+
+<p align="center">
+  <img src="assets/profile_complete.png" width="150" alt="Profile Complete Badge" />
+  <img src="assets/discord_verified.png" width="150" alt="Discord Verified Badge" />
+  <img src="assets/first_step.png" width="150" alt="First Step Badge" />
+  <img src="assets/rising_star.png" width="150" alt="Rising Star Badge" />
+  <img src="assets/point_scorer.png" width="150" alt="Point Scorer Badge" />
+  <img src="assets/bounty_hunter.png" width="150" alt="Bounty Hunter Badge" />
+  <img src="assets/power_contributor.png" width="150" alt="Power Contributor Badge" />
+  <img src="assets/project_admin.png" width="150" alt="Project Admin Badge" />
+  <img src="assets/project_admin_lead.png" width="150" alt="Project Admin Lead Badge" />
+</p>
+
+---
+
+
 # 🤝 Connect With Me
 
 <p align="left">
