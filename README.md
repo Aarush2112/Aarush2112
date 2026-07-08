@@ -50,6 +50,8 @@
 
 <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logo=gazebo&logoColor=white"/>
@@ -76,125 +78,14 @@
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aarush2112&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarush2112&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aarush2112&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📅 Contribution Heatmap
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/aarush2112" alt="Aarush Gupta Github Contribution Chart" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aarush2112&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aarush2112&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 🧩 Problem Solving Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/aarushg21?theme=dark&ext=heatmap" />
-</p>
-
----
-
-# 🏅 GSSoC'26 Badges
-
-<p align="center">
-  <img src="assets/profile_complete.png" width="150" alt="Profile Complete Badge" />
-  <img src="assets/discord_verified.png" width="150" alt="Discord Verified Badge" />
-  <img src="assets/first_step.png" width="150" alt="First Step Badge" />
-  <img src="assets/rising_star.png" width="150" alt="Rising Star Badge" />
-  <img src="assets/point_scorer.png" width="150" alt="Point Scorer Badge" />
-  <img src="assets/bounty_hunter.png" width="150" alt="Bounty Hunter Badge" />
-  <img src="assets/power_contributor.png" width="150" alt="Power Contributor Badge" />
-  <img src="assets/project_admin.png" width="150" alt="Project Admin Badge" />
-  <img src="assets/project_admin_lead.png" width="150" alt="Project Admin Lead Badge" />
-</p>
-
----
-
-
-# 🤝 Connect With Me
-
-<p align="left">
-
-<a href="mailto:aarushgupta289@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aarushg-gupta/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.behance.net/aarushgupta15">
-<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/aarushg21">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/aarush2112">
-<img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-> ### **Build fast. Learn faster. Improve forever. 🚀**
+<img src="https://img.shields.io/badge/Supaba
