@@ -12,7 +12,7 @@
 
 # 🧠 About Me
 
-- 🔭 Working on **<a href="https://portfolio-aarush-gupta.vercel.app">My Portfolio Website</a>**
+- 🔭 Working on **<a href="https://portfolio-aarush-guta.vercel.app">My Portfolio Website</a>**
 - 🚀 Currently building **<a href="https://take-one-nexus.vercel.app">Take One Website</a>**
 - 🤝 Open to **Open Source & Tech Collaborations**
 - 🌱 Currently learning **System Design, DevOps & ROS2**
